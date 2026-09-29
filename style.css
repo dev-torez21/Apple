@@ -1,0 +1,453 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+nav {
+    padding: 20px 182px;
+    display: flex;
+    background-color: #ffffff;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 20px;
+    position: fixed;
+}
+
+nav a {
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #000000;
+    text-decoration: none;
+}
+
+.FBS1 {
+    background-image: url(images/bgiphone.png);
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    padding-top: 60px;
+    height: 600px;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    background-size: contain;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.Phone {
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    /* line-height: 35px; */
+    color: #1d1d1f;
+}
+
+.meet {
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+    color: #1d1d1f;
+    font-weight: 400;
+}
+
+.meetdiv {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.lmdiv {
+    padding-top: 20px;
+}
+
+.lm {
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #0066CC;
+    padding: 12px 20px;
+}
+
+.FBS2 {
+    background-image: url(images/2bg.png);
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    padding-top: 60px;
+    height: 600px;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    background-size: contain;
+    box-sizing: border-box;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.Mac {
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    /* line-height: 35px; */
+    color: #1d1d1f;
+}
+
+.Amac {
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+    color: #1d1d1f;
+    font-weight: 400;
+}
+
+.Amacdiv {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.FBS3 {
+    background-image: url(images/ipad.png);
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    padding-top: 60px;
+    height: 600px;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    background-size: contain;
+    box-sizing: border-box;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.m4 {
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+    color: #1d1d1f;
+    font-weight: 400;
+}
+
+.m4div {
+    /* padding-top: 7px; */
+    padding-bottom: 7px;
+}
+
+.lmdiv4 {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.FBS4 {
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 600px;
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.Fbs4a {
+    /* border: 2px solid blue; */
+    width: 50%;
+    height: 600px;
+    background-position: center;
+    background-size: contain;
+    box-sizing: border-box;
+    justify-content: space-between;
+    background-image: url(images/Macbookpro.png);
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.Fbs4b {
+    /* border: 2px solid blue; */
+    width: 50%;
+    height: 600px;
+    background-position: center;
+    background-size: contain;
+    box-sizing: border-box;
+    justify-content: space-between;
+    background-image: url(images/Macbookairway.png);
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.Macp {
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    /* line-height: 35px; */
+    color: #ffffff;
+}
+
+.Macb {
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    /* line-height: 35px; */
+    color: #1d1d1f;
+}
+
+.M55 {
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.M5div {
+    padding-bottom: 7px;
+}
+
+.sm5 {
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: #1d1d1f;
+    font-weight: 400;
+}
+
+.sm5div {
+    padding-bottom: 7px;
+}
+
+.FBS5 {
+    width: 100%;
+    height: 550px;
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.FBS5a {
+    width: 50%;
+    height: 550px;
+    background-position: center;
+    background-size: contain;
+    box-sizing: border-box;
+    justify-content: space-between;
+    background-image: url(images/whitebg.png);
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.FBS5b {
+    width: 50%;
+    height: 550px;
+    background-position: center top;
+    background-size: contain;
+    box-sizing: border-box;
+    justify-content: space-between;
+    background-image: url(images/darkbg.png);
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.sd {
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    color: #1d1d1f;
+}
+
+.XDR {
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    color: #ffffff;
+}
+
+.bold {
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    font-size: 22px;
+    color: #1d1d1f;
+    font-weight: 450;
+}
+
+.bolddiv {
+    padding-bottom: 7px;
+}
+
+.pixel {
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.pixeldiv {
+    padding-bottom: 7px;
+}
+
+footer {
+    background-color: #f5f5f7;
+    margin-top: 15px;
+    /* border: 2px solid red; */
+    max-width: 100%;
+    padding-right: 170px;
+    /* height: 300px; */
+    padding-left: 170px;
+    justify-content: space-between;
+    /* max-height: 100%; */
+}
+
+.Mainfooter {
+    /* border: 2px solid yellow; */
+    width: 100%;
+    /* height: 300px; */
+    padding-top: 15px;
+    max-height: 100%;
+    padding-bottom: 15px;
+    justify-content: space-between;
+    max-width: 100%;
+}
+
+.MFdiv {
+    width: 100%;
+    display: flex;
+    /* height: 300px; */
+    max-height: 100%;
+    justify-content: space-between;
+}
+
+.MFdiv1 {
+    width: 25%;
+    /* border: 2px solid blue; */
+    max-height: 100%;
+    /* height: 300px; */
+    justify-content: space-between;
+    padding-bottom: 25px;
+}
+
+.MFdiv2 {
+    /* height: 300px; */
+    width: 25%;
+    max-height: 100%;
+    /* border: 2px solid green; */
+}
+
+.MFdiv3 {
+    /* height: 300px; */
+    width: 25%;
+    max-height: 100%;
+    /* border: 2px solid red; */
+}
+
+.MFdiv4 {
+    /* height: 300px; */
+    width: 25%;
+    max-height: 100%;
+    /* border: 2px solid palevioletred; */
+}
+
+.MFspan {
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #1e1e1e;
+}
+
+ul li a {
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #444445;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+.MidFdiv {
+    margin-top: 40px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #444445;
+    padding-bottom: 15px;
+}
+
+.MidFdiv a {
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #0066cc;
+}
+.endFdiv {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    /* border: 2px solid hotpink; */
+}
+.EDF1 {
+    width: 60%;
+    /* border: 2px solid purple; */
+    display: flex;
+    gap: 40px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #444445;
+}
+.EDF1 ul a {
+    gap: 10px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #444445;
+    text-decoration: none;
+}
+.EDF1 ul a :hover{
+    text-decoration: underline;
+}
+.EDF2 a {
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #444445;
+    /* text-align: right; */
+    /* justify-content: flex-end; */
+    padding-left: 400px;
+    text-decoration: none;
+}
+.EDF2 a :hover {
+    text-decoration: underline;
+}
